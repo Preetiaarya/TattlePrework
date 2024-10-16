@@ -333,9 +333,12 @@ footer {
         display: flex;
         justify-content: center;
         align-items: center;
-        margin-left: 2%;
-        gap: 4px;
+        /* margin-left: 2%;
+        gap: 4px; */
     } 
+    .imgdiv{
+        max-width: 100%;
+    }
 
     nav,
     .logo {
